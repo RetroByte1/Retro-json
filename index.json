@@ -2,1931 +2,2412 @@
   {
     "id": "particleclicker",
     "name": "particleclicker",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/particleclicker/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/particleclicker/",
+    "entry": "index.html"
   },
   {
     "id": "paperio",
     "name": "paperio",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/paperio/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/paperio/",
+    "entry": "index.html"
   },
   {
     "id": "pacman",
     "name": "pacman",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/pacman/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/pacman/",
+    "entry": "index.html"
   },
   {
     "id": "packabunchas",
     "name": "packabunchas",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/packabunchas/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/packabunchas/",
+    "entry": "index.html"
   },
   {
     "id": "ovo2",
     "name": "ovo2",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ovo2/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ovo2/",
+    "entry": "index.html"
   },
   {
     "id": "ovo",
     "name": "ovo",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ovo/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ovo/",
+    "entry": "index.html"
   },
   {
     "id": "omnombounce",
     "name": "omnombounce",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/omnombounce/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/omnombounce/",
+    "entry": "index.html"
   },
   {
     "id": "ninjavsevilcorp",
     "name": "ninjavsevilcorp",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ninjavsevilcorp/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ninjavsevilcorp/",
+    "entry": "index.html"
   },
   {
     "id": "motox3m",
     "name": "motox3m",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/motox3m/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/motox3m/",
+    "entry": "index.html"
   },
   {
     "id": "motoroadrash3d",
     "name": "motoroadrash3d",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/motoroadrash3d/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/motoroadrash3d/",
+    "entry": "index.html"
   },
   {
     "id": "monkeymart",
     "name": "monkeymart",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/monkeymart/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/monkeymart/",
+    "entry": "index.html"
   },
   {
     "id": "mergeroundracers",
     "name": "mergeroundracers",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/mergeroundracers/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/mergeroundracers/",
+    "entry": "index.html"
   },
   {
     "id": "littlealchemy",
     "name": "littlealchemy",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/littlealchemy/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/littlealchemy/",
+    "entry": "index.html"
   },
   {
     "id": "letssurf",
     "name": "letssurf",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/letssurf/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/letssurf/",
+    "entry": "index.html"
   },
   {
     "id": "konnekt",
     "name": "konnekt",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/konnekt/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/konnekt/",
+    "entry": "index.html"
   },
   {
     "id": "highwaytraffic",
     "name": "highwaytraffic",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/highwaytraffic/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/highwaytraffic/",
+    "entry": "index.html"
   },
   {
     "id": "hextris",
     "name": "hextris",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/hextris/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/hextris/",
+    "entry": "index.html"
   },
   {
     "id": "hexgl",
     "name": "hexgl",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/hexgl/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/hexgl/",
+    "entry": "index.html"
   },
   {
     "id": "grindcraft",
     "name": "grindcraft",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/grindcraft/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/grindcraft/",
+    "entry": "index.html"
   },
   {
     "id": "greybox",
     "name": "greybox",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/greybox/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/greybox/",
+    "entry": "index.html"
   },
   {
     "id": "gopherkart",
     "name": "gopherkart",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gopherkart/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gopherkart/",
+    "entry": "index.html"
   },
   {
     "id": "googlesnake",
     "name": "googlesnake",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/googlesnake/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/googlesnake/",
+    "entry": "index.html"
   },
   {
     "id": "gladihoppers",
     "name": "gladihoppers",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gladihoppers/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gladihoppers/",
+    "entry": "index.html"
   },
   {
     "id": "getawayshootoutnew",
     "name": "getawayshootoutnew",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/getawayshootoutnew/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/getawayshootoutnew/",
+    "entry": "index.html"
   },
   {
     "id": "geometrydash",
     "name": "geometrydash",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/geometrydash/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/geometrydash/",
+    "entry": "index.html"
   },
   {
     "id": "gameinsideagame",
     "name": "gameinsideagame",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gameinsideagame/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/gameinsideagame/",
+    "entry": "index.html"
   },
   {
     "id": "fruitninja",
     "name": "fruitninja",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fruitninja/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fruitninja/",
+    "entry": "index.html"
   },
   {
     "id": "friendlyfire",
     "name": "friendlyfire",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/friendlyfire/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/friendlyfire/",
+    "entry": "index.html"
   },
   {
     "id": "fridaynightfunkin",
     "name": "fridaynightfunkin",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fridaynightfunkin/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fridaynightfunkin/",
+    "entry": "index.html"
   },
   {
     "id": "flightsimulator",
     "name": "flightsimulator",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flightsimulator/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flightsimulator/",
+    "entry": "index.html"
   },
   {
     "id": "flappyplane",
     "name": "flappyplane",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappyplane/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappyplane/",
+    "entry": "index.html"
   },
   {
     "id": "flappybird",
     "name": "flappybird",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappybird/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappybird/",
+    "entry": "index.html"
   },
   {
     "id": "flappy2048",
     "name": "flappy2048",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappy2048/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/flappy2048/",
+    "entry": "index.html"
   },
   {
     "id": "fireice",
     "name": "fireice",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fireice/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fireice/",
+    "entry": "index.html"
   },
   {
     "id": "fireboyandwatergirlforesttemple",
     "name": "fireboyandwatergirlforesttemple",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fireboyandwatergirlforesttemple/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/fireboyandwatergirlforesttemple/",
+    "entry": "index.html"
   },
   {
     "id": "factoryballsforever",
     "name": "factoryballsforever",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/factoryballsforever/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/factoryballsforever/",
+    "entry": "index.html"
   },
   {
     "id": "evilglitch",
     "name": "evilglitch",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/evilglitch/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/evilglitch/",
+    "entry": "index.html"
   },
   {
     "id": "eggycar",
     "name": "eggycar",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/eggycar/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/eggycar/",
+    "entry": "index.html"
   },
   {
     "id": "edgenotfound",
     "name": "edgenotfound",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/edgenotfound/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/edgenotfound/",
+    "entry": "index.html"
   },
   {
     "id": "earntodie",
     "name": "earntodie",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/earntodie/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/earntodie/",
+    "entry": "index.html"
   },
   {
     "id": "ducklife5",
     "name": "ducklife5",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife5/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife5/",
+    "entry": "index.html"
   },
   {
     "id": "ducklife4",
     "name": "ducklife4",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife4/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife4/",
+    "entry": "index.html"
   },
   {
     "id": "ducklife3",
     "name": "ducklife3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife3/",
+    "entry": "index.html"
   },
   {
     "id": "ducklife2",
     "name": "ducklife2",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife2/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife2/",
+    "entry": "index.html"
   },
   {
     "id": "ducklife",
     "name": "ducklife",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/ducklife/",
+    "entry": "index.html"
   },
   {
     "id": "drivemad",
     "name": "drivemad",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drivemad/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drivemad/",
+    "entry": "index.html"
   },
   {
     "id": "drifthunters",
     "name": "drifthunters",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drifthunters/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drifthunters/",
+    "entry": "index.html"
   },
   {
     "id": "drift",
     "name": "drift",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drift/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drift/",
+    "entry": "index.html"
   },
   {
     "id": "drawthehill",
     "name": "drawthehill",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drawthehill/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/drawthehill/",
+    "entry": "index.html"
   },
   {
     "id": "doom",
     "name": "doom",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/doom/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/doom/",
+    "entry": "index.html"
   },
   {
     "id": "doodlejump",
     "name": "doodlejump",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/doodlejump/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/doodlejump/",
+    "entry": "index.html"
   },
   {
     "id": "deepestsword",
     "name": "deepestsword",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/deepestsword/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/deepestsword/",
+    "entry": "index.html"
   },
   {
     "id": "deathrun3d",
     "name": "deathrun3d",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/deathrun3d/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/deathrun3d/",
+    "entry": "index.html"
   },
   {
     "id": "cuttheropetimetravel",
     "name": "cuttheropetimetravel",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/cuttheropetimetravel/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/mhi/main/games/cuttheropetimetravel/",
+    "entry": "index.html"
   },
   {
     "id": "mountainmaze",
     "name": "mountainmaze",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/mountainmaze.html"
   },
   {
     "id": "motox3mwinter",
     "name": "motox3mwinter",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/motox3mwinter.html"
   },
   {
     "id": "motox3mspookyland",
     "name": "motox3mspookyland",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/motox3mspookyland.html"
   },
   {
     "id": "motox3mpoolparty",
     "name": "motox3mpoolparty",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/motox3mpoolparty.html"
   },
   {
     "id": "motox3m3",
     "name": "motox3m3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/motox3m3.html"
   },
   {
     "id": "motox3m2",
     "name": "motox3m2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/motox3m2.html"
   },
   {
     "id": "monstertracks",
     "name": "monstertracks",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/monstertracks.html"
   },
   {
     "id": "minesweeper",
     "name": "minesweeper",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/minesweeper.html"
   },
   {
     "id": "melonplayground",
     "name": "melonplayground",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/melonplayground.html"
   },
   {
     "id": "madalinstuntcars2",
     "name": "madalinstuntcars2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/madalinstuntcars2.html"
   },
   {
     "id": "leveldevil",
     "name": "leveldevil",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/leveldevil.html"
   },
   {
     "id": "learntoflyidle",
     "name": "learntoflyidle",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/learntoflyidle.html"
   },
   {
     "id": "learntofly3",
     "name": "learntofly3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/learntofly3.html"
   },
   {
     "id": "learntofly2",
     "name": "learntofly2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/learntofly2.html"
   },
   {
     "id": "learntofly1",
     "name": "learntofly1",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/learntofly1.html"
   },
   {
     "id": "learntofly",
     "name": "learntofly",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/learntofly.html"
   },
   {
     "id": "kartbros",
     "name": "kartbros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/kartbros.html"
   },
   {
     "id": "karatebros",
     "name": "karatebros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/karatebros.html"
   },
   {
     "id": "justoneboss",
     "name": "justoneboss",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/justoneboss.html"
   },
   {
     "id": "jumpingshell",
     "name": "jumpingshell",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/jumpingshell.html"
   },
   {
     "id": "johnnytrigger",
     "name": "johnnytrigger",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/johnnytrigger.html"
   },
   {
     "id": "jetpackjoyride",
     "name": "jetpackjoyride",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/jetpackjoyride.html"
   },
   {
     "id": "itsrainingboxes",
     "name": "itsrainingboxes",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/itsrainingboxes.html"
   },
   {
     "id": "ironsnout",
     "name": "ironsnout",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/ironsnout.html"
   },
   {
     "id": "infiltratingtheairship",
     "name": "infiltratingtheairship",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/infiltratingtheairship.html"
   },
   {
     "id": "idlebreakout",
     "name": "idlebreakout",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/idlebreakout.html"
   },
   {
     "id": "hoverracerdrive",
     "name": "hoverracerdrive",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/hoverracerdrive.html"
   },
   {
     "id": "houseofhazards",
     "name": "houseofhazards",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/houseofhazards.html"
   },
   {
     "id": "holeio",
     "name": "holeio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/holeio.html"
   },
   {
     "id": "hillclimbracinglite",
     "name": "hillclimbracinglite",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/hillclimbracinglite.html"
   },
   {
     "id": "helixjump",
     "name": "helixjump",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/helixjump.html"
   },
   {
     "id": "happywheels",
     "name": "happywheels",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/happywheels.html"
   },
   {
     "id": "hanger2",
     "name": "hanger2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/hanger2.html"
   },
   {
     "id": "guesstheiranswer",
     "name": "guesstheiranswer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/guesstheiranswer.html"
   },
   {
     "id": "granny2",
     "name": "granny2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/granny2.html"
   },
   {
     "id": "granny",
     "name": "granny",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/granny.html"
   },
   {
     "id": "googledino",
     "name": "googledino",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/googledino.html"
   },
   {
     "id": "googlebaseball",
     "name": "googlebaseball",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/googlebaseball.html"
   },
   {
     "id": "getontop",
     "name": "getontop",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/getontop.html"
   },
   {
     "id": "geometryvibes",
     "name": "geometryvibes",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/geometryvibes.html"
   },
   {
     "id": "geometrydashlite",
     "name": "geometrydashlite",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/geometrydashlite.html"
   },
   {
     "id": "funnyshooter2",
     "name": "funnyshooter2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/funnyshooter2.html"
   },
   {
     "id": "funnymadracing",
     "name": "funnymadracing",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/funnymadracing.html"
   },
   {
     "id": "funnybattle2",
     "name": "funnybattle2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/funnybattle2.html"
   },
   {
     "id": "funnybattle",
     "name": "funnybattle",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/funnybattle.html"
   },
   {
     "id": "freerider3",
     "name": "freerider3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/freerider3.html"
   },
   {
     "id": "footballlegends",
     "name": "footballlegends",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/footballlegends.html"
   },
   {
     "id": "footballbros",
     "name": "footballbros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/footballbros.html"
   },
   {
     "id": "fnaf4",
     "name": "fnaf4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fnaf4.html"
   },
   {
     "id": "fnaf3",
     "name": "fnaf3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fnaf3.html"
   },
   {
     "id": "fnaf2",
     "name": "fnaf2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fnaf2.html"
   },
   {
     "id": "fnaf",
     "name": "fnaf",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fnaf.html"
   },
   {
     "id": "fluidsimulator",
     "name": "fluidsimulator",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fluidsimulator.html"
   },
   {
     "id": "floodrunner4",
     "name": "floodrunner4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/floodrunner4.html"
   },
   {
     "id": "fleeingthecomplex",
     "name": "fleeingthecomplex",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fleeingthecomplex.html"
   },
   {
     "id": "fireboyandwatergirl3",
     "name": "fireboyandwatergirl3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fireboyandwatergirl3.html"
   },
   {
     "id": "fireboyandwatergirl2",
     "name": "fireboyandwatergirl2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fireboyandwatergirl2.html"
   },
   {
     "id": "fireboyandwatergirl",
     "name": "fireboyandwatergirl",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fireboyandwatergirl.html"
   },
   {
     "id": "fancypantsadventure2",
     "name": "fancypantsadventure2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fancypantsadventure2.html"
   },
   {
     "id": "fancypantsadventure",
     "name": "fancypantsadventure",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/fancypantsadventure.html"
   },
   {
     "id": "escapingtheprison",
     "name": "escapingtheprison",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/escapingtheprison.html"
   },
   {
     "id": "escaperoad2",
     "name": "escaperoad2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/escaperoad2.html"
   },
   {
     "id": "escaperoad",
     "name": "escaperoad",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/escaperoad.html"
   },
   {
     "id": "ducklingsio",
     "name": "ducklingsio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/ducklingsio.html"
   },
   {
     "id": "ducklife1",
     "name": "ducklife1",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/ducklife1.html"
   },
   {
     "id": "deathchase",
     "name": "deathchase",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/deathchase.html"
   },
   {
     "id": "dadish3",
     "name": "dadish3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/dadish3.html"
   },
   {
     "id": "dadish2",
     "name": "dadish2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/dadish2.html"
   },
   {
     "id": "dadish",
     "name": "dadish",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/dadish.html"
   },
   {
     "id": "cuttherope",
     "name": "cuttherope",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/cuttherope.html"
   },
   {
     "id": "crazycattle3d",
     "name": "crazycattle3D",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/crazycattle3D.html"
   },
   {
     "id": "crazycars",
     "name": "crazycars",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/crazycars.html"
   },
   {
     "id": "codeeditor",
     "name": "codeeditor",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/codeeditor.html"
   },
   {
     "id": "clusterrush",
     "name": "clusterrush",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/clusterrush.html"
   },
   {
     "id": "circloo2",
     "name": "circloO2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/circloO2.html"
   },
   {
     "id": "circloo",
     "name": "circloO",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/circloO.html"
   },
   {
     "id": "chess",
     "name": "chess",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/chess.html"
   },
   {
     "id": "celeste",
     "name": "celeste",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/celeste.html"
   },
   {
     "id": "catninja",
     "name": "catninja",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/catninja.html"
   },
   {
     "id": "candycrush",
     "name": "candycrush",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/candycrush.html"
   },
   {
     "id": "bubbleshooter",
     "name": "bubbleshooter",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bubbleshooter.html"
   },
   {
     "id": "breakingthebank",
     "name": "breakingthebank",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/breakingthebank.html"
   },
   {
     "id": "bouncymotors",
     "name": "bouncymotors",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bouncymotors.html"
   },
   {
     "id": "bobtherobber5",
     "name": "bobtherobber5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bobtherobber5.html"
   },
   {
     "id": "bobtherobber2",
     "name": "bobtherobber2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bobtherobber2.html"
   },
   {
     "id": "bobtherobber",
     "name": "bobtherobber",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bobtherobber.html"
   },
   {
     "id": "bloxorz",
     "name": "bloxorz",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloxorz.html"
   },
   {
     "id": "bloonstowerdefense5",
     "name": "bloonstowerdefense5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonstowerdefense5.html"
   },
   {
     "id": "bloonstowerdefense2",
     "name": "bloonstowerdefense2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonstowerdefense2.html"
   },
   {
     "id": "bloonstowerdefense1",
     "name": "bloonstowerdefense1",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonstowerdefense1.html"
   },
   {
     "id": "bloonstd5",
     "name": "bloonsTD5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonsTD5.html"
   },
   {
     "id": "bloonstd4",
     "name": "bloonsTD4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonsTD4.html"
   },
   {
     "id": "bloonstd3",
     "name": "bloonsTD3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonsTD3.html"
   },
   {
     "id": "bloonstd2",
     "name": "bloonsTD2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonsTD2.html"
   },
   {
     "id": "bloonstd",
     "name": "bloonsTD",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bloonsTD.html"
   },
   {
     "id": "blockysnakes",
     "name": "blockysnakes",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/blockysnakes.html"
   },
   {
     "id": "bitlife",
     "name": "bitlife",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/bitlife.html"
   },
   {
     "id": "basketrandom",
     "name": "basketrandom",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/basketrandom.html"
   },
   {
     "id": "basketbros",
     "name": "basketbros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/basketbros.html"
   },
   {
     "id": "basketballstars",
     "name": "basketballstars",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/basketballstars.html"
   },
   {
     "id": "baseballbros",
     "name": "baseballbros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/baseballbros.html"
   },
   {
     "id": "baldisbasics",
     "name": "baldisbasics",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/baldisbasics.html"
   },
   {
     "id": "badpiggies",
     "name": "badpiggies",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/badpiggies.html"
   },
   {
     "id": "badicecream",
     "name": "badicecream",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/badicecream.html"
   },
   {
     "id": "baconmaydie",
     "name": "baconmaydie",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/baconmaydie.html"
   },
   {
     "id": "awesometanks2",
     "name": "awesometanks2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/awesometanks2.html"
   },
   {
     "id": "awesometanks",
     "name": "awesometanks",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/awesometanks.html"
   },
   {
     "id": "angrybirdsspace",
     "name": "angrybirdsspace",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/angrybirdsspace.html"
   },
   {
     "id": "angrybirds",
     "name": "angrybirds",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/angrybirds.html"
   },
   {
     "id": "amongus",
     "name": "amongus",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/amongus.html"
   },
   {
     "id": "agesofconflict",
     "name": "agesofconflict",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/agesofconflict.html"
   },
   {
     "id": "ageofwar2",
     "name": "ageofwar2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/ageofwar2.html"
   },
   {
     "id": "ageofwar",
     "name": "ageofwar",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/ageofwar.html"
   },
   {
     "id": "agariolite",
     "name": "agariolite",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/agariolite.html"
   },
   {
     "id": "indev",
     "name": "Indev",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/Indev.html"
   },
   {
     "id": "beta_1.3",
     "name": "Beta_1.3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/Beta_1.3.html"
   },
   {
     "id": "alpha_1.2.6",
     "name": "Alpha_1.2.6",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/Alpha_1.2.6.html"
   },
   {
     "id": "40xescape",
     "name": "40xescape",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/40xescape.html"
   },
   {
     "id": "2048",
     "name": "2048",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/2048.html"
   },
   {
     "id": "1v1.lol",
     "name": "1v1.lol",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1v1.lol.html"
   },
   {
     "id": "1on1tennis",
     "name": "1on1tennis",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1on1tennis.html"
   },
   {
     "id": "1on1soccer",
     "name": "1on1soccer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1on1soccer.html"
   },
   {
     "id": "12minibattles",
     "name": "12minibattles",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/12minibattles.html"
   },
   {
     "id": "1.8",
     "name": "1.8",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1.8.html"
   },
   {
     "id": "1.5",
     "name": "1.5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1.5.html"
   },
   {
     "id": "1.12",
     "name": "1.12",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/single-file-html/main/games/1.12.html"
   },
   {
     "id": "zombierush",
     "name": "zombierush",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/zombierush.html"
   },
   {
     "id": "wrestlebros",
     "name": "wrestlebros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wrestlebros.html"
   },
   {
     "id": "worldshardestgame3",
     "name": "worldshardestgame3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/worldshardestgame3.html"
   },
   {
     "id": "worldshardestgame2",
     "name": "worldshardestgame2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/worldshardestgame2.html"
   },
   {
     "id": "worldshardestgame",
     "name": "worldshardestgame",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/worldshardestgame.html"
   },
   {
     "id": "wordleunlimited",
     "name": "wordleunlimited",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wordleunlimited.html"
   },
   {
     "id": "wordle",
     "name": "wordle",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wordle.html"
   },
   {
     "id": "wheely8",
     "name": "wheely8",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely8.html"
   },
   {
     "id": "wheely7",
     "name": "wheely7",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely7.html"
   },
   {
     "id": "wheely6",
     "name": "wheely6",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely6.html"
   },
   {
     "id": "wheely5",
     "name": "wheely5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely5.html"
   },
   {
     "id": "wheely4",
     "name": "wheely4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely4.html"
   },
   {
     "id": "wheely3",
     "name": "wheely3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely3.html"
   },
   {
     "id": "wheely2",
     "name": "wheely2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely2.html"
   },
   {
     "id": "wheely",
     "name": "wheely",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheely.html"
   },
   {
     "id": "wheeliebike",
     "name": "wheeliebike",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wheeliebike.html"
   },
   {
     "id": "webretro",
     "name": "webretro",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/webretro.html"
   },
   {
     "id": "webecomewhatwebehold",
     "name": "webecomewhatwebehold",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/webecomewhatwebehold.html"
   },
   {
     "id": "wartheknights",
     "name": "wartheknights",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/wartheknights.html"
   },
   {
     "id": "volleyrandom",
     "name": "volleyrandom",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/volleyrandom.html"
   },
   {
     "id": "vexx3m2",
     "name": "vexx3m2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/vexx3m2.html"
   },
   {
     "id": "vexx3m",
     "name": "vexx3m",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/vexx3m.html"
   },
   {
     "id": "vex5",
     "name": "vex5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/vex5.html"
   },
   {
     "id": "vex4",
     "name": "vex4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/vex4.html"
   },
   {
     "id": "useboxmen",
     "name": "useboxmen",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/useboxmen.html"
   },
   {
     "id": "unicyclehero",
     "name": "unicyclehero",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/unicyclehero.html"
   },
   {
     "id": "tunnelrush",
     "name": "tunnelrush",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tunnelrush.html"
   },
   {
     "id": "tubejumpers",
     "name": "tubejumpers",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tubejumpers.html"
   },
   {
     "id": "triviacrack",
     "name": "triviacrack",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/triviacrack.html"
   },
   {
     "id": "trex",
     "name": "trex",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/trex.html"
   },
   {
     "id": "trapthecat",
     "name": "trapthecat",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/trapthecat.html"
   },
   {
     "id": "tinyfishing",
     "name": "tinyfishing",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tinyfishing.html"
   },
   {
     "id": "timeshooter2",
     "name": "timeshooter2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/timeshooter2.html"
   },
   {
     "id": "thisistheonlyleveltoo",
     "name": "thisistheonlyleveltoo",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/thisistheonlyleveltoo.html"
   },
   {
     "id": "thisistheonlylevel",
     "name": "thisistheonlylevel",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/thisistheonlylevel.html"
   },
   {
     "id": "theyarecoming",
     "name": "theyarecoming",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/theyarecoming.html"
   },
   {
     "id": "thereisnog",
     "name": "thereisnog",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/thereisnog.html"
   },
   {
     "id": "theimpossiblequiz2",
     "name": "theimpossiblequiz2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/theimpossiblequiz2.html"
   },
   {
     "id": "theimpossiblequiz",
     "name": "theimpossiblequiz",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/theimpossiblequiz.html"
   },
   {
     "id": "tetris",
     "name": "tetris",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tetris.html"
   },
   {
     "id": "territorialio",
     "name": "territorialio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/territorialio.html"
   },
   {
     "id": "templeofboom",
     "name": "templeofboom",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/templeofboom.html"
   },
   {
     "id": "taproad",
     "name": "taproad",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/taproad.html"
   },
   {
     "id": "tag",
     "name": "tag",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tag.html"
   },
   {
     "id": "tabletennisworldtour",
     "name": "tabletennisworldtour",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/tabletennisworldtour.html"
   },
   {
     "id": "superstarcar",
     "name": "superstarcar",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/superstarcar.html"
   },
   {
     "id": "supermariorpg",
     "name": "supermariorpg",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/supermariorpg.html"
   },
   {
     "id": "supermario64",
     "name": "supermario64",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/supermario64.html"
   },
   {
     "id": "superliquidsoccer",
     "name": "superliquidsoccer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/superliquidsoccer.html"
   },
   {
     "id": "superhot",
     "name": "superhot",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/superhot.html"
   },
   {
     "id": "superbikethechampion",
     "name": "superbikethechampion",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/superbikethechampion.html"
   },
   {
     "id": "subwaysurferssanfrancisco",
     "name": "subwaysurferssanfrancisco",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/subwaysurferssanfrancisco.html"
   },
   {
     "id": "subwaysurfershavana",
     "name": "subwaysurfershavana",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/subwaysurfershavana.html"
   },
   {
     "id": "subwaysurfersbeijing",
     "name": "subwaysurfersbeijing",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/subwaysurfersbeijing.html"
   },
   {
     "id": "stickmerge",
     "name": "stickmerge",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stickmerge.html"
   },
   {
     "id": "stickmanlife",
     "name": "stickmanlife",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stickmanlife.html"
   },
   {
     "id": "stickmanhook",
     "name": "stickmanhook",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stickmanhook.html"
   },
   {
     "id": "stickfighter",
     "name": "stickfighter",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stickfighter.html"
   },
   {
     "id": "stickarchersbattle",
     "name": "stickarchersbattle",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stickarchersbattle.html"
   },
   {
     "id": "stealingthediamond",
     "name": "stealingthediamond",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stealingthediamond.html"
   },
   {
     "id": "stateio",
     "name": "stateio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stateio.html"
   },
   {
     "id": "stacktris",
     "name": "stacktris",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stacktris.html"
   },
   {
     "id": "stack",
     "name": "stack",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/stack.html"
   },
   {
     "id": "sprunki",
     "name": "sprunki",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/sprunki.html"
   },
   {
     "id": "speedstars",
     "name": "speedstars",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/speedstars.html"
   },
   {
     "id": "spacewaves",
     "name": "spacewaves",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/spacewaves.html"
   },
   {
     "id": "spaceiskey2",
     "name": "spaceiskey2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/spaceiskey2.html"
   },
   {
     "id": "spaceiskey",
     "name": "spaceiskey",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/spaceiskey.html"
   },
   {
     "id": "spacebarclicker",
     "name": "spacebarclicker",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/spacebarclicker.html"
   },
   {
     "id": "soccerbros",
     "name": "soccerbros",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/soccerbros.html"
   },
   {
     "id": "snowballio",
     "name": "snowballio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/snowballio.html"
   },
   {
     "id": "sm64",
     "name": "sm64",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/sm64.html"
   },
   {
     "id": "sm63",
     "name": "sm63",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/sm63.html"
   },
   {
     "id": "slowroads",
     "name": "slowroads",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/slowroads.html"
   },
   {
     "id": "slope3",
     "name": "slope3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/slope3.html"
   },
   {
     "id": "slope2player",
     "name": "slope2player",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/slope2player.html"
   },
   {
     "id": "slope",
     "name": "slope",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/slope.html"
   },
   {
     "id": "shortlife",
     "name": "shortlife",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/shortlife.html"
   },
   {
     "id": "sandgame",
     "name": "sandgame",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/sandgame.html"
   },
   {
     "id": "run3",
     "name": "run3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/run3.html"
   },
   {
     "id": "run2",
     "name": "run2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/run2.html"
   },
   {
     "id": "run",
     "name": "run",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/run.html"
   },
   {
     "id": "rooftopsnipers2",
     "name": "rooftopsnipers2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/rooftopsnipers2.html"
   },
   {
     "id": "rocketsoccerderby",
     "name": "rocketsoccerderby",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/rocketsoccerderby.html"
   },
   {
     "id": "riddletransfer2",
     "name": "riddletransfer2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddletransfer2.html"
   },
   {
     "id": "riddletransfer",
     "name": "riddletransfer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddletransfer.html"
   },
   {
     "id": "riddleschool5",
     "name": "riddleschool5",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddleschool5.html"
   },
   {
     "id": "riddleschool4",
     "name": "riddleschool4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddleschool4.html"
   },
   {
     "id": "riddleschool3",
     "name": "riddleschool3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddleschool3.html"
   },
   {
     "id": "riddleschool2",
     "name": "riddleschool2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddleschool2.html"
   },
   {
     "id": "riddleschool",
     "name": "riddleschool",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/riddleschool.html"
   },
   {
     "id": "retropingpong",
     "name": "retropingpong",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/retropingpong.html"
   },
   {
     "id": "retrohighway",
     "name": "retrohighway",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/retrohighway.html"
   },
   {
     "id": "retrobowlcollege",
     "name": "retrobowlcollege",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/retrobowlcollege.html"
   },
   {
     "id": "retrobowl",
     "name": "retrobowl",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/retrobowl.html"
   },
   {
     "id": "redball4vol3",
     "name": "redball4vol3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/redball4vol3.html"
   },
   {
     "id": "redball4vol2",
     "name": "redball4vol2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/redball4vol2.html"
   },
   {
     "id": "redball4vol1",
     "name": "redball4vol1",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/redball4vol1.html"
   },
   {
     "id": "ragdollsoccer",
     "name": "ragdollsoccer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/ragdollsoccer.html"
   },
   {
     "id": "ragdollhit",
     "name": "ragdollhit",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/ragdollhit.html"
   },
   {
     "id": "raftwars2",
     "name": "raftwars2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/raftwars2.html"
   },
   {
     "id": "raftwars",
     "name": "raftwars",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/raftwars.html"
   },
   {
     "id": "radiusraid",
     "name": "radiusraid",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/radiusraid.html"
   },
   {
     "id": "qwop",
     "name": "qwop",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/qwop.html"
   },
   {
     "id": "pou",
     "name": "pou",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/pou.html"
   },
   {
     "id": "poorbunny",
     "name": "poorbunny",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/poorbunny.html"
   },
   {
     "id": "polytrack",
     "name": "polytrack",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/polytrack.html"
   },
   {
     "id": "plonky",
     "name": "plonky",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/plonky.html"
   },
   {
     "id": "plantsvszombies",
     "name": "plantsvszombies",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/plantsvszombies.html"
   },
   {
     "id": "pixelspeedrun",
     "name": "pixelspeedrun",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/pixelspeedrun.html"
   },
   {
     "id": "pingpongchaos",
     "name": "pingpongchaos",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/pingpongchaos.html"
   },
   {
     "id": "picosschool",
     "name": "picosschool",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/picosschool.html"
   },
   {
     "id": "parkingfury3",
     "name": "parkingfury3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/parkingfury3.html"
   },
   {
     "id": "parkingfury2",
     "name": "parkingfury2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/parkingfury2.html"
   },
   {
     "id": "parkingfury",
     "name": "parkingfury",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/parkingfury.html"
   },
   {
     "id": "paperio2",
     "name": "paperio2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/paperio2.html"
   },
   {
     "id": "papaswingeria",
     "name": "papaswingeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papaswingeria.html"
   },
   {
     "id": "papastacomia",
     "name": "papastacomia",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papastacomia.html"
   },
   {
     "id": "papassushiria",
     "name": "papassushiria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papassushiria.html"
   },
   {
     "id": "papasscooperia",
     "name": "papasscooperia",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papasscooperia.html"
   },
   {
     "id": "papaspizzeria",
     "name": "papaspizzeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papaspizzeria.html"
   },
   {
     "id": "papaspastaria",
     "name": "papaspastaria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papaspastaria.html"
   },
   {
     "id": "papaspancakeria",
     "name": "papaspancakeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papaspancakeria.html"
   },
   {
     "id": "papashotdoggeria",
     "name": "papashotdoggeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papashotdoggeria.html"
   },
   {
     "id": "papasfreezeria",
     "name": "papasfreezeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papasfreezeria.html"
   },
   {
     "id": "papasdonuteria",
     "name": "papasdonuteria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papasdonuteria.html"
   },
   {
     "id": "papascupcakeria",
     "name": "papascupcakeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papascupcakeria.html"
   },
   {
     "id": "papascheeseria",
     "name": "papascheeseria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papascheeseria.html"
   },
   {
     "id": "papasburgeria",
     "name": "papasburgeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papasburgeria.html"
   },
   {
     "id": "papasbakeria",
     "name": "papasbakeria",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/papasbakeria.html"
   },
   {
     "id": "ovo3dimensions",
     "name": "ovo3dimensions",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/ovo3dimensions.html"
   },
   {
     "id": "oppositeday",
     "name": "oppositeday",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/oppositeday.html"
   },
   {
     "id": "offlineparadise",
     "name": "offlineparadise",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/offlineparadise.html"
   },
   {
     "id": "noobminer",
     "name": "noobminer",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/Math-Helper-Infinite/main/games4/noobminer.html"
   },
   {
     "id": "vex3",
     "name": "vex3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/vex3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/vex3/",
+    "entry": "index.html"
   },
   {
     "id": "trimps",
     "name": "trimps",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/trimps/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/trimps/",
+    "entry": "index.html"
   },
   {
     "id": "towermaster",
     "name": "towermaster",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/towermaster/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/towermaster/",
+    "entry": "index.html"
   },
   {
     "id": "topspeedracing3d",
     "name": "topspeedracing3d",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/topspeedracing3d/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/topspeedracing3d/",
+    "entry": "index.html"
   },
   {
     "id": "tombofthemask",
     "name": "tombofthemask",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/tombofthemask/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/tombofthemask/",
+    "entry": "index.html"
   },
   {
     "id": "timeshooter3",
     "name": "timeshooter3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/timeshooter3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/timeshooter3/",
+    "entry": "index.html"
   },
   {
     "id": "timeshooter",
     "name": "timeshooter",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/timeshooter/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/timeshooter/",
+    "entry": "index.html"
   },
   {
     "id": "themazeofspacegoblins",
     "name": "themazeofspacegoblins",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/themazeofspacegoblins/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/themazeofspacegoblins/",
+    "entry": "index.html"
   },
   {
     "id": "tanukisunset",
     "name": "tanukisunset",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/tanukisunset/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/tanukisunset/",
+    "entry": "index.html"
   },
   {
     "id": "subwaysurferssingapore",
     "name": "subwaysurferssingapore",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurferssingapore/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurferssingapore/",
+    "entry": "index.html"
   },
   {
     "id": "subwaysurfersny",
     "name": "subwaysurfersny",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurfersny/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurfersny/",
+    "entry": "index.html"
   },
   {
     "id": "subwaysurfers",
     "name": "subwaysurfers",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurfers/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/subwaysurfers/",
+    "entry": "index.html"
   },
   {
     "id": "stickmansurvival",
     "name": "stickmansurvival",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmansurvival/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmansurvival/",
+    "entry": "index.html"
   },
   {
     "id": "stickmangolf",
     "name": "stickmangolf",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmangolf/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmangolf/",
+    "entry": "index.html"
   },
   {
     "id": "stickmanclimb",
     "name": "stickmanclimb",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmanclimb/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmanclimb/",
+    "entry": "index.html"
   },
   {
     "id": "stickmanboost",
     "name": "stickmanboost",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmanboost/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickmanboost/",
+    "entry": "index.html"
   },
   {
     "id": "stickman-hook",
     "name": "stickman-hook",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickman-hook/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stickman-hook/",
+    "entry": "index.html"
   },
   {
     "id": "stackball",
     "name": "stackball",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stackball/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/stackball/",
+    "entry": "index.html"
   },
   {
     "id": "spaceinvaders",
     "name": "spaceinvaders",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spaceinvaders/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spaceinvaders/",
+    "entry": "index.html"
   },
   {
     "id": "spacehuggers",
     "name": "spacehuggers",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacehuggers/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacehuggers/",
+    "entry": "index.html"
   },
   {
     "id": "spacegarden",
     "name": "spacegarden",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacegarden/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacegarden/",
+    "entry": "index.html"
   },
   {
     "id": "spacecompany",
     "name": "spacecompany",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacecompany/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/spacecompany/",
+    "entry": "index.html"
   },
   {
     "id": "solitaire",
     "name": "solitaire",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/solitaire/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/solitaire/",
+    "entry": "index.html"
   },
   {
     "id": "soccerrandom",
     "name": "soccerrandom",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/soccerrandom/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/soccerrandom/",
+    "entry": "index.html"
   },
   {
     "id": "snowbattle",
     "name": "snowbattle",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/snowbattle/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/snowbattle/",
+    "entry": "index.html"
   },
   {
     "id": "snake",
     "name": "snake",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/snake/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/snake/",
+    "entry": "index.html"
   },
   {
     "id": "slope2",
     "name": "slope2",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/slope2/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/slope2/",
+    "entry": "index.html"
   },
   {
     "id": "slitherio",
     "name": "slitherio",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/slitherio/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/slitherio/",
+    "entry": "index.html"
   },
   {
     "id": "sleepingbeauty",
     "name": "sleepingbeauty",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/sleepingbeauty/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/sleepingbeauty/",
+    "entry": "index.html"
   },
   {
     "id": "sketchbook04",
     "name": "sketchbook04",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/sketchbook04/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/sketchbook04/",
+    "entry": "index.html"
   },
   {
     "id": "shuttledeck",
     "name": "shuttledeck",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/shuttledeck/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/shuttledeck/",
+    "entry": "index.html"
   },
   {
     "id": "scrapmetal3",
     "name": "scrapmetal3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/scrapmetal3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/scrapmetal3/",
+    "entry": "index.html"
   },
   {
     "id": "rooftopsnipers",
     "name": "rooftopsnipers",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/rooftopsnipers/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/rooftopsnipers/",
+    "entry": "index.html"
   },
   {
     "id": "roadblocks",
     "name": "roadblocks",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/roadblocks/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/roadblocks/",
+    "entry": "index.html"
   },
   {
     "id": "ritz",
     "name": "ritz",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/ritz/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/ritz/",
+    "entry": "index.html"
   },
   {
     "id": "retrohaunt",
     "name": "retrohaunt",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/retrohaunt/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/retrohaunt/",
+    "entry": "index.html"
   },
   {
     "id": "redball4",
     "name": "redball4",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/redball4/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/redball4/",
+    "entry": "index.html"
   },
   {
     "id": "racer",
     "name": "racer",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/racer/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/racer/",
+    "entry": "index.html"
   },
   {
     "id": "r3",
     "name": "r3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/r3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/r3/",
+    "entry": "index.html"
   },
   {
     "id": "q1k3",
     "name": "q1k3",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/q1k3/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/q1k3/",
+    "entry": "index.html"
   },
   {
     "id": "pushback",
     "name": "pushback",
-    "url": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/pushback/index.html"
+    "type": "folder",
+    "base": "https://raw.githubusercontent.com/CollinAwesome5/more-html-games/main/games/pushback/",
+    "entry": "index.html"
   },
   {
     "id": "htmlfilerunner",
     "name": "htmlfilerunner",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CollinAwesome5/even-more-games/main/games5/htmlfilerunner.html"
   },
   {
     "id": "floodrunner3",
     "name": "floodrunner3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/floodrunner3.html"
   },
   {
     "id": "floodrunner2",
     "name": "floodrunner2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/floodrunner2.html"
   },
   {
     "id": "fireboyandwatergirl4",
     "name": "fireboyandwatergirl4",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/fireboyandwatergirl4.html"
   },
   {
     "id": "earntodie2",
     "name": "earntodie2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/earntodie2.html"
   },
   {
     "id": "eagleride",
     "name": "eagleride",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/eagleride.html"
   },
   {
     "id": "drawclimber",
     "name": "drawclimber",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/drawclimber.html"
   },
   {
     "id": "demolitionderbycrashracing",
     "name": "demolitionderbycrashracing",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/demolitionderbycrashracing.html"
   },
   {
     "id": "crazymotorcycle",
     "name": "crazymotorcycle",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/crazymotorcycle.html"
   },
   {
     "id": "crazycrashlanding",
     "name": "crazycrashlanding",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/crazycrashlanding.html"
   },
   {
     "id": "cleanupio",
     "name": "cleanupio",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/cleanupio.html"
   },
   {
     "id": "clashofvikings",
     "name": "clashofvikings",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/clashofvikings.html"
   },
   {
     "id": "choppyorc",
     "name": "choppyorc",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/choppyorc.html"
   },
   {
     "id": "carkingarena",
     "name": "carkingarena",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/carkingarena.html"
   },
   {
     "id": "cardrawing",
     "name": "cardrawing",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/cardrawing.html"
   },
   {
     "id": "capybaraclicker",
     "name": "capybaraclicker",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/capybaraclicker.html"
   },
   {
     "id": "bowmasters",
     "name": "bowmasters",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/bowmasters.html"
   },
   {
     "id": "blumgirocket",
     "name": "blumgirocket",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/blumgirocket.html"
   },
   {
     "id": "blumgiracers",
     "name": "blumgiracers",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/blumgiracers.html"
   },
   {
     "id": "basketballlegends",
     "name": "basketballlegends",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/basketballlegends.html"
   },
   {
     "id": "badparenting",
     "name": "badparenting",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/badparenting.html"
   },
   {
     "id": "badicecream3",
     "name": "badicecream3",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/badicecream3.html"
   },
   {
     "id": "badicecream2",
     "name": "badicecream2",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/badicecream2.html"
   },
   {
     "id": "backrooms",
     "name": "backrooms",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/backrooms.html"
   },
   {
     "id": "angrybirdsshowdown",
     "name": "angrybirdsshowdown",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/angrybirdsshowdown.html"
   },
   {
     "id": "8ballclassic",
     "name": "8ballclassic",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/8ballclassic.html"
   },
   {
     "id": "3dflightsimulator",
     "name": "3Dflightsimulator",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/3Dflightsimulator.html"
   },
   {
     "id": "2048cupcakes",
     "name": "2048cupcakes",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/2048cupcakes.html"
   },
   {
     "id": "10minutestilldawn",
     "name": "10minutestilldawn",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/beastcooper/MHI_games/main/offline/10minutestilldawn.html"
   },
   {
     "id": "single-file",
     "name": "single-file",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CoolDude2349/Offline-HTML-Games-Pack/main/single-file.html"
   },
   {
     "id": "compressed",
     "name": "compressed",
+    "type": "single",
     "url": "https://raw.githubusercontent.com/CoolDude2349/Offline-HTML-Games-Pack/main/compressed.html"
   }
 ]
